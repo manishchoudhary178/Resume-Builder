@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_theme_color_theme_colors",
+  "info": {
+    "displayName": "ThemeColor",
+    "icon": "emotionHappy"
+  },
+  "options": {},
+  "attributes": {
+    "color": {
+      "type": "string"
+    }
+  }
+}
